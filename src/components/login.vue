@@ -1,14 +1,13 @@
 <template>
-  <div id="app">
-    <router-view></router-view>
-  </div>
+    <div class="loginform">
+        这是登陆组件
+    </div>    
 </template>
-
 <script>
 export default {
-  name:"App"
+    
 }
 </script>
 <style lang="less" scoped>
-  
+
 </style>
